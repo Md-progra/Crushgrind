@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Md-progra/Crushgrind/tree/master/0036-valid-sudoku) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Md-progra/Crushgrind/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
